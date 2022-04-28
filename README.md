@@ -1,5 +1,5 @@
 # SOBRE MIM 
-## SEJA FELIZ, EU AMO MUSICA
+## SEJA FELIZ
 - 👋 Hi, I’m @jeniferd3xter
 - 👀 Eu estou interessada em aprender a programar novas linguagens ...
 - 🌱 Eu estou aprendendo a progamam em linguagem de javaescript e scrath...
